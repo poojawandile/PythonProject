@@ -1,0 +1,13 @@
+Team,Sprint_Name,SP_Capacity,SP_Delivered,Utilization,Predictability
+Cam1,Cam1 SP1,56,34,0.61,0.91
+Cam1,Cam1 SP2,56,32,0.57,0.92
+Cam1,Cam1 SP3,56,45,0.8,0.81
+Cam1,Cam1 SP4,56,33,0.59,0.93
+Cam1,Cam1 SP5,56,23,0.41,0.97
+Cam1,Cam1 SP6,56,54,0.96,0.98
+Cam 2,Cam2 SP1,48,48,1,0.82
+Cam 2,Cam2 SP2,40,39,0.98,0.92
+Cam 2,Cam2 SP3,48,42,0.88,0.93
+Cam 2,Cam2 SP4,40,39,0.98,0.84
+Cam 2,Cam2 SP5,48,32,0.67,0.82
+Cam 2,Cam2 SP6,40,29,0.73,0.94
